@@ -14,7 +14,7 @@
 		<h4 id=main>We Create Future </h4>
 	</div>
 
-   <div class="bar">
+   <div class="menubar">
       Home
       About US
       Shop
