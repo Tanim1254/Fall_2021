@@ -11,7 +11,7 @@
 	<div id=header>
 		<br>
 		<h3 id=abc >ABC Management System </h3>
-		<h4 id=future>We Create Future </h4>
+		<h4 id=main>We Create Future </h4>
 	</div>
 
    <div class="bar">
